@@ -1,0 +1,1 @@
+{"__type__":"cc.TextAsset","_name":"Octopus.atlas","text":"\nOctopus.png\nsize: 128,64\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\noctopus_body\n  rotate: false\n  xy: 2, 21\n  size: 102, 40\n  orig: 102, 40\n  offset: 0, 0\n  index: -1\noctopus_vay\n  rotate: false\n  xy: 2, 2\n  size: 116, 17\n  orig: 116, 17\n  offset: 0, 0\n  index: -1\n"}

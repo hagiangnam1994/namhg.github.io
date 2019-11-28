@@ -1,0 +1,1 @@
+{"__type__":"cc.TextAsset","_name":"Bat.atlas","text":"\nBat.png\nsize: 128,64\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\ncanh\n  rotate: false\n  xy: 69, 2\n  size: 52, 35\n  orig: 52, 35\n  offset: 0, 0\n  index: -1\nthan\n  rotate: true\n  xy: 2, 9\n  size: 28, 65\n  orig: 28, 65\n  offset: 0, 0\n  index: -1\n"}

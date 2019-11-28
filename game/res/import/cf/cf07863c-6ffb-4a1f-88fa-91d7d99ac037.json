@@ -1,0 +1,1 @@
+{"__type__":"cc.TextAsset","_name":"Sail.atlas","text":"\nSail.png\nsize: 512,512\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nsail\n  rotate: false\n  xy: 2, 2\n  size: 310, 337\n  orig: 310, 337\n  offset: 0, 0\n  index: -1\n"}

@@ -1,0 +1,1 @@
+{"__type__":"cc.TextAsset","_name":"Seaweed_5.atlas","text":"\nSeaweed_5.png\nsize: 128,512\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n5\n  rotate: false\n  xy: 2, 2\n  size: 70, 490\n  orig: 70, 490\n  offset: 0, 0\n  index: -1\n"}
